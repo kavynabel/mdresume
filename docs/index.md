@@ -60,5 +60,3 @@ __Chairman of the Board__, Boy Scouts of America
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
